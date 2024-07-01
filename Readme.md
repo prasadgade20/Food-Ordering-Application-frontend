@@ -46,139 +46,137 @@ Users first need to select the specific category, then they can see complete off
 
 ![MainPage](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/bc57fdf3-e8cd-4eeb-acd4-751d65629667)
 
-![2-new](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/1d02c090-e392-452f-81ea-98f6036fe26c)
-![3-new](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/21af3116-9c62-4d4a-a2c6-8208833d8411)
-
 After choosing category (meal type), available meals (offers) will be listed.
 
-![4](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/cbb4d2dc-efcd-4bbd-870a-91b98ef6167b)
-
-![5](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/605b88ed-3bae-45e5-9073-3aba13ec63ee)
-![6](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/c2d284cf-2ba6-4d75-ac5f-c9a206ee0b7c)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/0b8f3117-2812-4b24-ab66-5e9841f4b42c)
 
 Users can add items (meals) to the cart after they specify quantity. Default and minimum value for quantity is 1 and users can't go below that value. 
 After clicking on *Confirm* button, item is successfully added to the cart.
 
-![7](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/6fc5fd43-ad76-4041-9f6b-16a9ee7b058a)
-![8](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/947abcfe-86f2-41e3-9479-1bc9b043f9e7)
-
-![9](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/f3e7ada8-e794-468c-9b85-f29edb5d9778)
-![10](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/3707e695-44ee-434c-b5df-5fb9e3c06791)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/27c80f5b-3616-4bea-bcea-33eb1d0d0e0b)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/cc797f3c-b1ac-4cc4-bded-a9081f323498)
 
 Clicking on the cart button or icon in the navigation, users can see items from the cart.
 
-![11](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/e24b2caf-209a-4574-9bad-bb80c5fc9bc5)
-
-![12](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/deb62c95-2bc2-4df5-9c69-156232fdbe9f)
-![13](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/d5c3b2af-260e-4821-b864-f7e96a4325da)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/d13a8ca6-eef5-4986-9556-6b31833a8d58)
 
 Users that are not logged-in, need to insert details such as address and phone number.
 
-![14](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/73eb8ed0-5dae-4931-9f1e-2df35dba8680)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/c09b7dd7-1fac-4577-b83a-faf795e4d5fa)
 
 Without inserting details, not logged-in users can't confirm the final order 
 
-![15](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/c8059b1b-f5bb-4ff6-8add-9d55bc821304)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/ba76eeb8-e12b-46c7-b8bb-03a900382699)
 
 Validation if inserted phone number is a number or it has less than 5 digits
 
-![16](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/ae42d4f4-e96b-4c32-ac98-8bb6d83638fe)
-
-![17](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/51bac0a0-9985-402c-bab8-874b9c511a15)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/c2554836-e571-4f49-933a-02b69ad1b210)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/7bf58263-4318-4e8a-8ce7-b36a2f996646)
 
 After valid input, final order will be confirmed and not logged-in users can track their order status clicking on the link.
 
-![18](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/527d6246-6903-4c15-a322-606aeeecee9b)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/51627eb9-c149-4859-b33a-fc8a07f80aba)
 
-![19](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/970363e4-eaa5-433e-94c2-312b287e7c3a)
-
-![20](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/bf234304-f9db-4a28-a955-db52a6af64c6)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/73631c73-fe58-41c7-ac60-ef34127fca4f)
 
 Clicking on *Show items* button, user can see all items from the (final) order that he ordered.
 
-![21](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/fd532af9-7204-4696-91d4-bbe10db6700f)
-![22](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/94171e40-5d5f-431d-a0d6-e8b1aed71897)
-
-![23](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/ae737b0a-c365-43d3-925e-58e44aef56e7)
-![24](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/cc1f19a9-9f63-4623-a4a0-feeb709f7948)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/a9b321ac-397e-41ce-8d67-6c646247b2ef)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/8284fe55-e336-483e-bda4-835c5acf38a7)
 
 Logged-in users get 10% discount on the final price of their order. Also they don't need to insert details, such as address and phone number, because it's stored in the database after registration. Logged-in users also have more tabs and options.
 
-![25](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/b5f8cb96-1e13-4687-a115-e2881c3b7501)
-
-![26](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/d727a736-33c9-4f1c-80a8-80f478f742a0)
-![27](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/968a80a1-16da-42be-ad36-bc2271993cc4)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/97d5e7cb-450e-467f-a382-a2e632b9b20a)
 
 Logged-in users can track their active orders (*IN PREPARATION* and *ORDERED* status) clicking on *My active orders tab*. Final orders with *IN DELIVERY* status will be visible clicking on *My order history* tab.
 
 Clicking on *Show items* button, user can see his ordered items
 
-![28](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/75066e84-1303-438a-8035-1c8c84ee7c10)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/5f14538a-7c35-4911-ae7d-35f289e14634)
 
-![29](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/2fbfacc1-b8e8-40b1-869b-d6848f0ce8b3)
-
-![30](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/01e06d25-ad76-48eb-9b7d-910a90b5ed55)
-![31](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/95388b1b-b65d-47f7-8fbf-605c59542898)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/a9d2e7fe-05bf-430e-9c25-0d044fc719b9)
 
 Admin have option to delete final order and all its ordered items from the database, but he doesn't have an option to change status as employee can do (same component shows for both roles, but they don't have same available actions).
 
-![exc-admin-delete](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/09b9db37-eddc-4921-9841-05ff9cb6ae2a)
-![exc-admin-delete-2](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/6b2599bb-689d-412b-918f-3a773325242d)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/438b8159-19e2-4bfe-90cb-6e54b457094a)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/98da70c9-eed6-4c49-99e8-b9fce5506aca)
+
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/77a8b579-1d34-48fd-8154-8979647a06a4)
 
 Employee can see and change status of the final order depending on real status of the order, which user can track (but they can't delete them as Admin can do).
 
-![32](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/b22727a1-598a-43e9-8b2c-a6637b45f3a8)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/542d5342-913e-4089-b236-65a96bac0239)
 
 Clicking on *Show items* button, employee can see all items from the (final) order.
 
-![33](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/58fdc043-a19a-4f72-94ae-fc493a9c4416)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/caae99fe-3414-412e-9147-9094c0bbfec6)
 
 All orders with status *IN DELIVERY* are placed in order history, they aren't considered active anymore
 
-![34](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/3b0dcca3-8371-4ec5-b537-3bffc42ec52e)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/e11bb8c8-31f1-4c40-9566-5274ce877b01)
 
 Login component shows when the app starts.
 
-![35](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/b3d0bf70-23cd-464f-b277-569a95550971)
-
-![36](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/ad44cd0f-dc62-4c45-8bd2-4949930de848)
-![37](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/d31f8600-59a3-4980-99d2-3b9cac4b6a5f)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/3a17c512-5f5b-43b8-a037-46bb1e1d8c1f)
 
 Logged-in users can access their profile page where they edit profile or change password if necessary.
 
-![38](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/c6a1e444-e785-44a6-93f0-ade0ab594084)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/f1d578de-609d-410b-b64d-6e8f5245fa9c)
 
 Edit profile
 
-![39](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/73e35977-3052-4c5c-b342-49750021eeed)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/7c0603cf-df88-47ec-9451-886b2f311de8)
 
-![40](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/67f96241-9455-44e0-9317-1cd0c07630b0)
-![41](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/2ff5e2c8-74ad-4e43-81b4-09c45e34ab5c)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/73e799c9-fb88-45e1-a3ca-2c9b337b2e86)
 
 When user wants to change password, he needs to insert old password as well.
 
-![42](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/9289d332-6d87-4965-9fe8-68c7f941528b)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/0c902c27-ae49-4161-b454-dcac9ec0bfb3)
 
 If inserted old password and password from the database don't match, he won't be allowed to save new password.
 
-![43](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/79e784eb-c404-4160-9dab-cb7464c78487)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/7252002e-cf67-4ea2-88c0-7008a3033709)
 
 If they match, new password will be saved successfully (will be encripted and saved in the database)
 
-![44](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/d7541c6c-40a8-4d2c-bba8-e7fb9db4cc09)
-
 Registration (unregistered users can sign up and they will have 10% off on every order)
 
-![45](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/95c8ed46-8986-4635-b9f2-079b3e67e0de)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/dfd88fba-c89c-4658-b0ac-8a272e87a7d2)
 
 Validation and alert if username already exists in the database.
 
-![46](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/1c33944a-f51c-44dc-8f73-2935c6e4cc65)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/de4b46bd-bb6a-43b2-a1a3-f23a4c122257)
 
 Validation and alert if email already exists in the database
 
-![47](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/84a6ec13-2b36-4dab-b203-26a39ecff789)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/9ca28303-b095-4c7b-b637-cf89eadaf1a7)
 
-Registration design for mobile screen size
+Admin can create new employees and manage them.
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/9287014d-c71a-45eb-b9cc-9e6fd5db30e4)
 
-![48](https://github.com/bujakkristijan/food-ordering-app/assets/76042091/9f52480d-5d50-4b00-a388-a36117da8088)
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/088fa978-2204-4fd5-bbef-df6bbf2f8b14)
+
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/b5f794d9-fb0e-4fc5-a5e2-a4037d45dabf)
+
+Admin can create, update, delete new mealtypes and meals.
+
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/0c6180aa-3ac6-4b79-9985-e000369ef0ba)
+
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/f06159b0-c89d-4a6c-94d6-fefcb53d3cea)
+
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/4a15f1eb-65e1-438f-9ee3-d804f58b36b2)
+
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/e5517262-b169-4f7b-92fe-d126b5f1cd3e)
+
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/d02c8c6a-cce4-4589-af63-f13192d93a54)
+
+![image](https://github.com/prasadgade20/Food-Ordering-Application-frontend/assets/43978977/096bc131-e419-4348-ac8b-3465412f79e7)
+
+
+
+
+
+
+
+
+
