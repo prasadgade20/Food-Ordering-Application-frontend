@@ -77,7 +77,7 @@ const ListMealTypeComponent = () => {
         MealTypeService.updateMealType(mealType).then((response) =>{
             const responseFromServer = response.data;
             if(responseFromServer == "success"){
-                alert("Uspesno editovano");
+                alert("Successfully Edited");
                 handleCloseEdit();
                 getAllMealTypes();   
             }
